@@ -14,7 +14,7 @@ This page is used to help myself as a business owner, create notes to keep my da
 
 ## Deployment
 
-
+https://raheimdevins.github.io/Raheims-Note-Taker/
 
 
 ## Credits
